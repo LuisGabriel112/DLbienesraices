@@ -158,14 +158,15 @@ header img{
     font-size: 2.5rem;
 }
 
-.nosotros-b-secundario{
+.nosotros-b-secundario {
     background-color: #000000;
     color: white;
     border-radius: 50px;
     flex-direction: column;
     text-align: justify;
-    margin: 7rem 40rem;
+    margin: 6rem 62rem;
     padding: 20px;
+    width: 31%;
     font-size: 2rem;
 }
 

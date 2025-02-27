@@ -1,0 +1,29 @@
+[
+    {
+        "titulo": "Casa en venta",
+        "ubicacion": "Colonia Centro",
+        "habitaciones": 3,
+        "baños": 2,
+        "tamaño": 200,
+        "garages": 2,
+        "imagen": "https://images.homify.com/v1443654352/p/photo/image/960352/Imativa_Casa_Carrasco_0013.jpg"
+    },
+    {
+        "titulo": "Casa en renta",
+        "ubicacion": "Colonia Norte",
+        "habitaciones": 4,
+        "baños": 3,
+        "tamaño": 250,
+        "garages": 1,
+        "imagen": "https://images.homify.com/v1443654352/p/photo/image/960352/Imativa_Casa_Carrasco_0014.jpg"
+    },
+    {
+        "titulo": "Departamento en venta",
+        "ubicacion": "Colonia Sur",
+        "habitaciones": 2,
+        "baños": 1,
+        "tamaño": 100,
+        "garages": 1,
+        "imagen": "https://images.homify.com/v1443654352/p/photo/image/960352/Imativa_Casa_Carrasco_0015.jpg"
+    }
+]
