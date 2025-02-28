@@ -15,7 +15,7 @@
         "baños": 3,
         "tamaño": 250,
         "garages": 1,
-        "imagen": "https://images.homify.com/v1443654352/p/photo/image/960352/Imativa_Casa_Carrasco_0014.jpg"
+        "imagen": "https://definicion.de/wp-content/uploads/2011/01/casa-2.jpg"
     },
     {
         "titulo": "Departamento en venta",
@@ -24,6 +24,80 @@
         "baños": 1,
         "tamaño": 100,
         "garages": 1,
-        "imagen": "https://images.homify.com/v1443654352/p/photo/image/960352/Imativa_Casa_Carrasco_0015.jpg"
-    }
+        "imagen": "https://www.bbva.com/wp-content/uploads/2021/04/casas-ecolo%CC%81gicas_apertura-hogar-sostenibilidad-certificado-.jpg"
+    },
+    
+    {
+            "titulo": "Casa en venta",
+            "ubicacion": "Colonia Centro",
+            "habitaciones": 3,
+            "baños": 2,
+            "tamaño": 200,
+            "garages": 2,
+            "imagen": "https://images.homify.com/v1443654352/p/photo/image/960352/Imativa_Casa_Carrasco_0013.jpg"
+},
+{
+            "titulo": "Casa en renta",
+            "ubicacion": "Colonia Norte",
+            "habitaciones": 4,
+            "baños": 3,
+            "tamaño": 250,
+            "garages": 1,
+            "imagen": "https://definicion.de/wp-content/uploads/2011/01/casa-2.jpg"
+},
+{
+            "titulo": "Departamento en venta",
+            "ubicacion": "Colonia Sur",
+            "habitaciones": 2,
+            "baños": 1,
+            "tamaño": 100,
+            "garages": 1,
+            "imagen": "https://www.bbva.com/wp-content/uploads/2021/04/casas-ecolo%CC%81gicas_apertura-hogar-sostenibilidad-certificado-.jpg"
+},
+{
+            "titulo": "Casa de lujo",
+            "ubicacion": "Colonia Este",
+            "habitaciones": 5,
+            "baños": 4,
+            "tamaño": 350,
+            "garages": 3,
+            "imagen": "https://www.luxuryhomes.com/wp-content/uploads/2021/04/luxury-home.jpg"
+},
+{
+            "titulo": "Casa moderna",
+            "ubicacion": "Colonia Oeste",
+            "habitaciones": 4,
+            "baños": 3,
+            "tamaño": 300,
+            "garages": 2,
+            "imagen": "https://www.modernhomes.com/wp-content/uploads/2021/04/modern-home.jpg"
+},
+{
+            "titulo": "Departamento en renta",
+            "ubicacion": "Colonia Norte",
+            "habitaciones": 3,
+            "baños": 2,
+            "tamaño": 150,
+            "garages": 1,
+            "imagen": "https://www.rentals.com/wp-content/uploads/2021/04/rental-apartment.jpg"
+},
+{
+            "titulo": "Casa familiar",
+            "ubicacion": "Colonia Sur",
+            "habitaciones": 4,
+            "baños": 3,
+            "tamaño": 250,
+            "garages": 2,
+            "imagen": "https://www.familyhomes.com/wp-content/uploads/2021/04/family-home.jpg"
+},
+{
+            "titulo": "Casa pequeña",
+            "ubicacion": "Colonia Centro",
+            "habitaciones": 2,
+            "baños": 1,
+            "tamaño": 100,
+            "garages": 1,
+            "imagen": "https://www.smallhomes.com/wp-content/uploads/2021/04/small-home.jpg"
+}
+
 ]
